@@ -1,0 +1,2 @@
+# ade
+buat blog
